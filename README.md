@@ -1,2 +1,2 @@
-# hello-world-but-bad
+# hello world but bad
 brute forces hello world
